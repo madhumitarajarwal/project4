@@ -1,0 +1,357 @@
+
+Aug 31, 2024 21:32:03.44 NEW SESSION
+Aug 31, 2024 21:32:03.44 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 31, 2024 21:32:19.98 [18756:21400:0831/213219.973:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension lmhkpmbekcpmknklioeibfkpmmfibljd
+Aug 31, 2024 21:32:30.95 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Aug 31, 2024 21:38:02.68 [18756:19596:0831/213802.686:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 31, 2024 21:46:02.67 [18756:19596:0831/214602.673:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 31, 2024 22:10:23.88 [18756:19596:0831/221023.882:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 31, 2024 22:23:26.28 [18756:19596:0831/222326.280:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 31, 2024 22:34:54.93 [18756:19596:0831/223454.934:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 31, 2024 22:34:55.00 [18756:19596:0831/223455.003:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Aug 31, 2024 23:09:25.24 [18756:19596:0831/230925.246:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 01, 2024 14:16:04.61 NEW SESSION
+Sep 01, 2024 14:16:04.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 01, 2024 14:16:36.08 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 01, 2024 14:20:05.47 [20320:20324:0901/142005.477:ERROR:device_event_log_impl.cc(196)] [14:20:05.477] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 01, 2024 15:31:47.02 [20320:20476:0901/153147.019:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 15:31:48.09 [20320:20476:0901/153148.093:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -331
+Sep 01, 2024 16:02:32.07 [20320:20476:0901/160232.075:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 16:11:05.64 [20320:20476:0901/161105.642:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 16:15:05.65 [20320:20476:0901/161505.659:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 16:30:56.10 [20320:20476:0901/163056.097:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 16:52:19.38 [20320:20476:0901/165219.383:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 17:31:11.52 [20320:20324:0901/173111.526:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 01, 2024 17:40:15.81 [20320:20476:0901/174015.814:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 17:59:17.79 [20320:20476:0901/175917.790:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 18:14:47.80 [20320:20476:0901/181447.788:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 18:37:02.70 [20320:20476:0901/183702.706:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 01, 2024 18:43:13.98 [20320:20476:0901/184313.985:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 19:03:45.75 [20320:20476:0901/190345.758:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 19:09:24.61 [20320:20476:0901/190924.611:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 01, 2024 19:15:54.80 [20320:20476:0901/191554.800:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 01, 2024 20:36:16.54 [20320:20476:0901/203616.543:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Sep 02, 2024 13:23:32.89 NEW SESSION
+Sep 02, 2024 13:23:32.89 [11612:13784:0902/132332.894:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:23:33.87 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 02, 2024 13:23:57.71 [11612:13784:0902/132357.714:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:24:05.04 [11612:12544:0902/132405.049:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Sep 02, 2024 13:24:06.24 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 02, 2024 13:24:51.94 [11612:13784:0902/132451.944:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:26:36.97 [11612:13784:0902/132636.976:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:29:29.15 [11612:13784:0902/132929.155:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:30:46.93 [11612:13784:0902/133046.927:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:31:04.03 [11612:13784:0902/133104.036:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:32:50.05 [11612:13784:0902/133250.050:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:32:56.49 [11612:13784:0902/133256.490:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:33:00.03 [11612:13784:0902/133300.038:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:34:17.43 [11612:13784:0902/133417.434:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:34:34.55 [11612:13784:0902/133434.558:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:35:48.03 [11612:13784:0902/133548.031:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:37:52.52 [11612:13784:0902/133752.525:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:37:58.97 [11612:13784:0902/133758.973:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:38:02.47 [11612:13784:0902/133802.475:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:38:16.50 [11612:13784:0902/133816.508:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:38:33.49 [11612:13784:0902/133833.496:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:38:42.76 [11612:12544:0902/133842.767:ERROR:device_event_log_impl.cc(196)] [13:38:42.766] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 02, 2024 13:38:43.70 [11612:13784:0902/133843.709:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Sep 02, 2024 13:39:21.56 [11612:13784:0902/133921.561:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:40:56.60 [11612:13784:0902/134056.602:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 13:42:09.51 [11612:13784:0902/134209.515:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2024 14:25:21.94 [11612:13784:0902/142521.944:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 02, 2024 14:53:04.22 [11612:13784:0902/145304.222:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 02, 2024 14:56:29.75 [11612:13784:0902/145629.016:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 02, 2024 14:56:34.76 [11612:13784:0902/145634.761:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 02, 2024 15:15:33.73 [11612:13784:0902/151533.734:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Sep 02, 2024 15:15:33.73 [11612:3508:0902/151533.734:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Sep 02, 2024 15:16:48.75 [11612:17556:0902/151648.757:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Sep 02, 2024 15:18:41.28 [11612:17556:0902/151841.285:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Sep 02, 2024 15:23:22.55 [11612:17556:0902/152322.551:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Sep 02, 2024 15:30:13.67 [11612:13784:0902/153013.673:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 02, 2024 15:39:15.97 [11612:13784:0902/153915.975:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 02, 2024 15:55:06.03 [11612:13784:0902/155506.038:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 02, 2024 16:20:08.94 [11612:13784:0902/162008.947:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 02, 2024 16:57:30.01 [11612:13784:0902/165730.010:ERROR:launch_context_win.cc(359)] Native Messaging host process exited with code -1073741502
+Sep 03, 2024 13:54:40.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 03, 2024 13:55:10.31 [15540:10764:0903/135510.310:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 03, 2024 13:55:13.44 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 03, 2024 14:17:17.01 [15540:10944:0903/141717.017:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 03, 2024 14:17:20.06 [15540:10944:0903/141720.065:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 03, 2024 14:17:59.91 [15540:10764:0903/141759.911:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Sep 03, 2024 22:50:19.20 NEW SESSION
+Sep 03, 2024 22:50:19.20 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 03, 2024 22:50:45.64 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 03, 2024 23:08:12.57 [13320:20020:0903/230812.570:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 03, 2024 23:33:42.55 [13320:20020:0903/233342.557:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 03, 2024 23:48:46.28 [13320:20020:0903/234846.285:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 04, 2024 24:03:50.18 [13320:20020:0904/000350.180:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 04, 2024 24:25:07.22 [13320:20020:0904/002507.221:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 04, 2024 24:34:27.23 [13320:20020:0904/003427.230:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 04, 2024 24:34:59.88 [13320:15964:0904/003459.881:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 24:36:11.35 [13320:15964:0904/003611.352:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 24:38:24.44 [13320:15964:0904/003824.443:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 24:39:33.05 [13320:15964:0904/003933.050:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 24:42:37.42 [13320:15964:0904/004237.423:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 24:48:43.53 [13320:15964:0904/004843.532:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 01:07:01.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 04, 2024 01:07:33.45 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sep 04, 2024 12:35:02.47 NEW SESSION
+Sep 04, 2024 12:35:02.47 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 04, 2024 12:35:34.65 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 04, 2024 12:54:07.18 [9412:15428:0904/125407.186:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 04, 2024 14:01:47.15 [9412:15428:0904/140147.156:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+
+Sep 04, 2024 22:15:47.21 NEW SESSION
+Sep 04, 2024 22:15:47.21 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 04, 2024 22:16:19.23 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 04, 2024 22:26:53.72 [9884:16772:0904/222653.722:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 04, 2024 23:30:09.48 [9884:16772:0904/233009.488:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 04, 2024 23:35:00.96 [9884:16772:0904/233500.964:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 05, 2024 24:00:03.92 [9884:16772:0905/000003.919:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 08, 2024 18:09:21.80 NEW SESSION
+Sep 08, 2024 18:09:21.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 08, 2024 18:09:54.42 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 08, 2024 18:17:13.81 [11020:7568:0908/181713.809:ERROR:device_event_log_impl.cc(196)] [18:17:13.809] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 08, 2024 18:25:56.13 [11020:22788:0908/182556.135:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 18:35:42.28 [11020:7568:0908/183542.281:ERROR:device_event_log_impl.cc(196)] [18:35:42.283] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 08, 2024 18:35:44.03 [11020:22788:0908/183544.034:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 20:32:30.30 [11020:22788:0908/203230.308:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 20:38:44.07 [11020:22788:0908/203844.071:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 20:42:48.15 [11020:22788:0908/204248.156:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 08, 2024 20:47:28.48 [11020:22788:0908/204728.479:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 21:01:39.42 [11020:22788:0908/210139.421:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 21:01:46.29 [11020:22788:0908/210146.294:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 23:21:23.07 [11020:656:0908/232123.061:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+Sep 08, 2024 23:24:56.09 [11020:22788:0908/232456.092:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 08, 2024 23:33:22.06 [11020:22788:0908/233322.060:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 09, 2024 24:06:15.38 [11020:22788:0909/000615.385:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 09, 2024 13:41:22.61 NEW SESSION
+Sep 09, 2024 13:41:22.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 09, 2024 13:41:54.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 09, 2024 15:34:30.68 [540:21812:0909/153430.685:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Sep 09, 2024 15:35:14.13 [540:18652:0909/153514.137:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 09, 2024 15:35:15.20 [540:21812:0909/153515.205:ERROR:device_event_log_impl.cc(196)] [15:35:15.198] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 09, 2024 15:35:16.17 [540:18652:0909/153516.172:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2024 15:35:55.46 [540:18652:0909/153555.467:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 09, 2024 15:35:57.67 [540:18652:0909/153557.677:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 09, 2024 15:42:04.29 [540:21812:0909/154204.290:ERROR:device_event_log_impl.cc(196)] [15:42:04.289] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 09, 2024 15:42:39.22 [540:18652:0909/154239.223:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 09, 2024 15:42:44.30 [540:18652:0909/154244.304:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2024 16:27:18.93 [540:18652:0909/162718.929:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 09, 2024 22:32:03.60 NEW SESSION
+Sep 09, 2024 22:32:03.60 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 09, 2024 22:32:33.86 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 09, 2024 23:21:08.40 [10928:12812:0909/232108.401:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 09, 2024 23:50:07.18 [10928:12812:0909/235007.178:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 10, 2024 01:06:07.14 [10928:12812:0910/010607.145:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 10, 2024 12:32:27.23 NEW SESSION
+Sep 10, 2024 12:32:27.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 10, 2024 12:32:58.94 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sep 10, 2024 14:44:49.25 NEW SESSION
+Sep 10, 2024 14:44:49.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 10, 2024 14:45:21.92 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sep 10, 2024 22:25:41.83 NEW SESSION
+Sep 10, 2024 22:25:41.83 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 10, 2024 22:26:14.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 10, 2024 22:30:46.16 [6340:13984:0910/223046.165:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 10, 2024 23:06:59.83 [6340:13984:0910/230659.830:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 10, 2024 23:15:02.43 [6340:13984:0910/231502.431:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 11, 2024 12:25:11.86 NEW SESSION
+Sep 11, 2024 12:25:11.86 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 11, 2024 12:25:44.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 11, 2024 14:36:20.09 [14992:20376:0911/143620.092:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 11, 2024 14:42:20.07 [14992:20376:0911/144220.071:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 11, 2024 14:52:58.00 [14992:20376:0911/145258.003:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 11, 2024 15:07:50.27 [14992:20376:0911/150750.272:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Sep 11, 2024 16:21:16.03 NEW SESSION
+Sep 11, 2024 16:21:16.03 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 11, 2024 16:21:48.31 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sep 11, 2024 22:36:10.60 NEW SESSION
+Sep 11, 2024 22:36:10.60 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 11, 2024 22:36:43.20 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 11, 2024 22:55:41.63 [6360:17304:0911/225530.577:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 11, 2024 23:06:00.62 [6360:17304:0911/230600.619:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 12, 2024 24:06:49.03 [6360:20944:0912/000649.030:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 12, 2024 24:06:49.03 [6360:20944:0912/000649.030:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 12, 2024 24:28:19.46 [6360:20944:0912/002819.467:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 12, 2024 24:32:59.22 [6360:20944:0912/003259.220:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Sep 12, 2024 13:12:19.80 NEW SESSION
+Sep 12, 2024 13:12:19.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 12, 2024 13:12:51.92 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 12, 2024 14:41:11.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 12, 2024 14:41:44.27 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sep 12, 2024 22:02:34.54 NEW SESSION
+Sep 12, 2024 22:02:34.54 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 12, 2024 22:03:06.05 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 12, 2024 22:43:48.85 [12392:8756:0912/224348.854:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 12, 2024 23:23:11.44 [12392:8756:0912/232311.437:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 12, 2024 23:54:37.69 [12392:8756:0912/235437.691:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 13, 2024 24:02:54.12 [12392:8756:0913/000254.121:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 13, 2024 13:02:58.58 NEW SESSION
+Sep 13, 2024 13:02:58.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 13, 2024 13:03:30.06 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 13, 2024 13:20:04.61 [19076:20584:0913/132004.607:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 13, 2024 14:37:25.63 [19076:20584:0913/143725.632:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 13, 2024 21:47:05.01 NEW SESSION
+Sep 13, 2024 21:47:05.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 13, 2024 21:47:37.78 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 13, 2024 22:25:02.04 [21472:22748:0913/222502.049:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 13, 2024 23:17:21.27 [21472:22748:0913/231721.279:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 13, 2024 23:43:27.87 [21472:22748:0913/234327.873:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 14, 2024 24:02:50.74 [21472:22748:0914/000250.741:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 14, 2024 24:21:53.52 [21472:22748:0914/002153.524:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 14, 2024 13:50:04.85 NEW SESSION
+Sep 14, 2024 13:50:04.85 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 14, 2024 13:50:35.62 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 14, 2024 15:25:59.49 [13552:16992:0914/152559.499:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 14, 2024 16:49:35.71 [13552:16992:0914/164935.712:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Sep 15, 2024 13:50:38.06 NEW SESSION
+Sep 15, 2024 13:50:38.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 15, 2024 13:51:08.56 [4120:11200:0915/135108.567:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 15, 2024 13:51:10.29 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 15, 2024 13:57:04.19 [4120:11200:0915/135704.192:ERROR:device_event_log_impl.cc(196)] [13:57:04.193] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 15, 2024 13:57:26.23 [4120:16692:0915/135726.238:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 14:01:44.58 [4120:16692:0915/140144.585:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 14:14:15.03 [4120:16692:0915/141415.037:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 14:56:49.56 [4120:16692:0915/145649.561:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 15:51:18.32 [4120:16692:0915/155118.320:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 15:59:57.60 [4120:16692:0915/155957.609:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 16:47:01.10 [4120:16692:0915/164701.103:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 17:05:05.17 [4120:16692:0915/170505.175:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 18:01:35.16 [4120:16692:0915/180135.159:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 19:50:27.26 [4120:16692:0915/195027.261:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 20:21:27.25 [4120:16692:0915/202127.254:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 15, 2024 21:40:16.51 [4120:16692:0915/214016.518:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 15, 2024 22:10:00.19 [4120:16692:0915/221000.192:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 16, 2024 15:03:01.12 NEW SESSION
+Sep 16, 2024 15:03:01.12 [3016:9876:0916/150301.126:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:01.12 [3016:9876:0916/150301.126:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:01.13 [3016:9876:0916/150301.127:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:01.13 [3016:9876:0916/150301.127:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:02.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 16, 2024 15:03:21.43 [3016:9876:0916/150321.429:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:22.43 [3016:9876:0916/150322.432:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:24.64 [3016:9876:0916/150324.645:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:26.57 [3016:9876:0916/150326.579:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:03:31.76 [3016:22008:0916/150331.768:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 16, 2024 15:03:34.46 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 16, 2024 15:04:10.81 [3016:9876:0916/150410.817:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:04:17.33 [3016:9876:0916/150417.330:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:04:17.58 [3016:9876:0916/150417.582:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:04:18.47 [3016:9876:0916/150418.468:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:05:38.55 [3016:9876:0916/150538.558:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:05:40.79 [3016:9876:0916/150540.793:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:05:51.96 [3016:9876:0916/150551.967:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:06:04.03 [3016:9876:0916/150604.033:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:08:20.19 [3016:9876:0916/150820.194:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:09:00.66 [3016:9876:0916/150900.663:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:09:39.59 [3016:9876:0916/150939.593:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:09:55.53 [3016:9876:0916/150955.530:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:17:24.39 [3016:9876:0916/151724.392:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:17:24.39 [3016:9876:0916/151724.392:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:17:24.39 [3016:9876:0916/151724.392:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:17:24.39 [3016:9876:0916/151724.392:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:17:24.45 [3016:22008:0916/151724.453:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Sep 16, 2024 15:22:04.64 [3016:9876:0916/152204.643:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:22:25.42 [3016:9876:0916/152225.427:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:23:08.26 [3016:9876:0916/152308.265:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:24:47.19 [3016:9876:0916/152447.197:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:28:10.34 [3016:9876:0916/152810.340:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Sep 16, 2024 15:56:37.99 [3016:22008:0916/155637.994:ERROR:device_event_log_impl.cc(196)] [15:56:37.995] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 16, 2024 15:58:08.21 [3016:9876:0916/155808.212:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 16, 2024 16:03:26.53 [3016:9876:0916/160326.539:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 16, 2024 16:22:06.12 [3016:9876:0916/162206.128:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 17, 2024 23:20:11.62 NEW SESSION
+Sep 17, 2024 23:20:11.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 17, 2024 23:20:43.29 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 18, 2024 24:53:45.59 [5056:18712:0918/005345.598:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 18, 2024 13:45:37.28 NEW SESSION
+Sep 18, 2024 13:45:37.28 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 18, 2024 13:46:09.78 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 18, 2024 13:46:57.50 [2100:3620:0918/134657.504:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 18, 2024 14:15:54.09 [2100:3620:0918/141554.096:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 14:33:15.74 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 18, 2024 14:33:46.66 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sep 18, 2024 21:21:12.62 NEW SESSION
+Sep 18, 2024 21:21:12.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 18, 2024 21:21:44.24 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 18, 2024 21:51:33.77 [19252:21228:0918/215133.776:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 22:03:32.78 [19252:21228:0918/220332.780:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 22:23:54.90 [19252:21228:0918/222354.901:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 22:30:11.29 [19252:21228:0918/223011.291:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Sep 18, 2024 22:36:11.31 [19252:21228:0918/223611.310:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 22:46:02.24 [19252:21228:0918/224602.238:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 23:10:32.23 [19252:21228:0918/231032.235:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 23:18:56.07 [19252:21228:0918/231856.070:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 23:22:56.06 [19252:21228:0918/232256.067:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 23:27:38.53 [19252:21228:0918/232738.539:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 18, 2024 23:36:13.56 [19252:21228:0918/233613.566:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 19, 2024 13:31:39.89 NEW SESSION
+Sep 19, 2024 13:31:39.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 19, 2024 13:32:12.23 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 19, 2024 13:55:51.75 [11588:6044:0919/135551.753:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Sep 19, 2024 14:34:59.73 [11588:6044:0919/143459.737:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 14:57:59.71 [11588:6044:0919/145759.708:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 15:01:29.71 [11588:6044:0919/150129.717:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 15:17:29.71 [11588:6044:0919/151729.709:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 16:08:59.73 [11588:6044:0919/160859.734:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 16:21:31.03 [11588:6044:0919/162131.034:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 16:29:17.91 [11588:6044:0919/162917.915:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 16:45:00.20 [11588:6044:0919/164500.203:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 16:45:05.93 [11588:6044:0919/164505.932:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 17:22:00.92 [11588:6044:0919/172200.920:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 19, 2024 21:23:19.39 NEW SESSION
+Sep 19, 2024 21:23:19.39 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 19, 2024 21:23:50.86 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 19, 2024 21:26:21.45 [21104:20932:0919/212621.450:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 19, 2024 23:30:59.11 [21104:20932:0919/233059.115:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 20, 2024 15:48:53.57 NEW SESSION
+Sep 20, 2024 15:48:53.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 20, 2024 15:49:25.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 20, 2024 15:52:29.69 [4732:1384:0920/155229.694:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 20, 2024 15:59:19.01 [4732:1384:0920/155919.011:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Sep 20, 2024 17:04:34.26 [4732:1384:0920/170434.263:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 20, 2024 22:34:04.69 NEW SESSION
+Sep 20, 2024 22:34:04.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 20, 2024 22:34:37.12 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 21, 2024 24:04:28.07 [14240:14624:0921/000428.071:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 21, 2024 13:37:58.29 NEW SESSION
+Sep 21, 2024 13:37:58.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 21, 2024 13:38:29.63 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 21, 2024 13:39:34.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 21, 2024 13:40:03.63 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 21, 2024 15:12:23.45 [22160:26920:0921/151223.450:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sep 23, 2024 14:04:18.31 NEW SESSION
+Sep 23, 2024 14:04:18.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 23, 2024 14:04:49.05 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sep 23, 2024 14:39:16.78 [20772:13260:0923/143916.783:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Sep 23, 2024 14:55:47.58 [20772:13260:0923/145547.579:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
